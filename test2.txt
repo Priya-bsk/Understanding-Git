@@ -12,4 +12,4 @@ I sometimes conflict, but never without cause.
 
 What am I?
 
-I am Git :)
+I am Git
