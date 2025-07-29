@@ -1,0 +1,2 @@
+Hiiii. This is a test file written from vscode.
+Now we shall commit this file using 'git commit -m "Message here"'
