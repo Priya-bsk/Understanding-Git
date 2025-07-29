@@ -33,7 +33,7 @@ I'm using this as a testing ground to:
 - Reverting changes and using reset/rebase 
 
 ------------------------------
- REPO CONTENTS (May Change)
+ REPO CONTENTS 
 ------------------------------
 
 This will just have random files, test commits, merge conflict
